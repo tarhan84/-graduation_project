@@ -5,3 +5,4 @@ tanımlanmış Stringler ile eşleştirilir. Herhangi bir eşleşme durumunda o 
 içerisinde ise Bluetooth aracılığıyla okunan char’a Karşılık gelen komut işlenir.
 Bu Mobil bölümü Proje Java Programlama dili kullanılarak Android Studio Platformunda
 Robot bölümü ise Arduino kullanılarak yapılmıştır. 
+BluetoothControl klasörü içerisinde Android uygulamaya ait kodlar bulunmaktadır, RBT.ino dosyası altında ise arduino kodları mevcuttur.
